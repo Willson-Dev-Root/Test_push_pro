@@ -1,0 +1,2 @@
+ABBREV: food
+variable active c(3:10,12:14,20:23,33,41,44,47)
